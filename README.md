@@ -7,3 +7,7 @@
 - [EagleBear2002的博客](https://eaglebear2002.github.io/)
 
 - [SpriCoder的博客](https://spricoder.github.io/)
+
+- [Software-Knowledge](https://github.com/Software-Knowledge)
+
+- [NJU-SE-15-share-review/professional-class](https://github.com/NJU-SE-15-share-review/professional-class)
