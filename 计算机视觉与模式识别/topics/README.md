@@ -3,13 +3,10 @@
 课程概述
 ----
 
-本课程介绍模式识别与计算机视觉的基础理论与应用，涵盖图像处理、特征提取、分类和检测算法等内容。同时，通过 8 次专题课介绍计算机视觉前沿进展，包括研究问题，数据库和前沿算法。本页面用于 8 次专题课相关材料下载，如有问题请联系 wt [@] smail.nju.edu.cn 。
+本课程介绍模式识别与计算机视觉的基础理论与应用，涵盖图像处理、特征提取、分类和检测算法等内容。同时，通过 8 次专题课介绍计算机视觉前沿进展，包括研究问题，数据库和前沿算法。
 
 ### Topic 1：Introduction to Deep Learning
 
-*   **课程时间**：2025 年 2 月 27 日
-*   **课程助教**：杨旖纯
-*   **课程 PPT**：[第 1 次课 PPT 链接](https://box.nju.edu.cn/f/32894ff68e3144eebfc3/)
 *   **推荐学习资源**：
     *   斯坦福大学 [CS231n](https://cs231n.stanford.edu/) 课程，Deep Learning for Computer Vision，李飞飞
     *   [《深度学习》花书](https://github.com/exacity/deeplearningbook-chinese)第 5-8 章
@@ -17,9 +14,6 @@
 
 ### Topic 2： CNN and Transformer Architectures
 
-*   **课程时间**：2025 年 3 月 13 日
-*   **课程助教**：吴涛
-*   **课程 PPT**：[第 2 次课 PPT 链接](https://box.nju.edu.cn/f/83466d6a1c0f41c6bbb9/)
 *   **推荐阅读**：
     *   Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. “Imagenet classification with deep convolutional neural networks.” Advances in neural information processing systems 25 (2012).
     *   He, Kaiming, et al. “Deep residual learning for image recognition.” Proceedings of the IEEE conference on computer vision and pattern recognition. 2016.
@@ -32,9 +26,6 @@
 
 ### Topic 3：Video Understanding: From Video Foundation Model to Fine-grained Understanding
 
-*   **课程时间**：2025 年 3 月 27 日
-*   **课程助教**：许一凡
-*   **课程 PPT**：[第 3 次课 PPT 链接](https://box.nju.edu.cn/f/d6f0bb894b4b49de87f8/)
 *   **推荐阅读**：
     *   [1] An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale [ICLR 2021]
     *   [2] Is Space-Time Attention All You Need for Video Understanding? [ICML 2021]
@@ -53,9 +44,6 @@
 
 ### Topic 4：Video Understanding: Action and Grounding
 
-*   **课程时间**：2025 年 4 月 10 日
-*   **课程助教**：杨珉
-*   **课程 PPT**：[第 4 次课 PPT 链接](https://box.nju.edu.cn/f/dfedd35cb19c4e49adbb/)
 *   **推荐阅读**：
     *   Github 论文总结
     *   https://github.com/zhenyingfang/Awesome-Temporal-Action-Detection-Temporal-Action-Proposal-Generation
@@ -80,9 +68,6 @@
 
 ### Topic 5：Detection and Tracking in the Wild
 
-*   **课程时间**：2025 年 4 月 24 日
-*   **课程助教**：高若朋
-*   **课程 PPT**：[第 5 次课 PPT 链接](https://box.nju.edu.cn/f/6f89181a6946410ca9ae/)
 *   **推荐阅读**：
     *   [1] Learning Transferable Visual Models From Natural Language Supervision. [ICML 2021]
     *   [2] Rich feature hierarchies for accurate object detection and semantic segmentation. [CVPR 2014]
@@ -123,9 +108,6 @@
 
 ### Topic 6：Advances in Video MLLM
 
-*   **课程时间**：2025 年 5 月 8 日
-*   **课程助教**：曾祥宇
-*   **课程 PPT**：[第 6 次课 PPT 链接](https://box.nju.edu.cn/f/443a57a15fc64c0bbf4d/)
 *   **推荐阅读**：
     *   [1] BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models (PMLR23)
     *   [2] Visual Instruction Tuning (LLaVA NIPS23)
@@ -152,9 +134,6 @@
 
 ### Topic 7: Advances in Visual Generation
 
-*   **课程时间**：2025 年 5 月 22 日
-*   **课程助教**：陈阳
-*   **课程 PPT**：[第 7 次课 PPT 链接](https://box.nju.edu.cn/f/bf208f181e754a80bc17/)
 *   **推荐阅读**：
     *   MIT EECS6.S978: Deep Generative Model, Kaiming He, https://mit-6s978.github.io/
     *   Machine Learning, Hung-yi Lee, https://speech.ee.ntu.edu.tw/~hylee/ml/2025-spring.php
@@ -168,9 +147,6 @@
 
 ### Topic 8: Advances in Skill Learning and Embodied Intelligence
 
-*   **课程时间**：2025 年 6 月 5 日
-*   **课程助教**：吴益露
-*   **课程 PPT**：[第 8 次课 PPT 链接](https://box.nju.edu.cn/f/af0f395d4a964e938b0b/)
 *   **推荐阅读**：
     *   Weakly-Supervised Action Segmentation and Alignment via Transcript-Aware Union-of-Subspaces Learning (ICCV2021)
     *   Set-Supervised Action Learning in Procedural Task Videos via Pairwise Order Consistency (CVPR2022)
@@ -186,3 +162,4 @@
     *   Learning Generalizable Robotic Reward Functions from “In-The-Wild” Human Videos
     *   Human2Robot: Learning Robot Actions from Paired Human-Robot Videos
     *   Gen2Act: Human Video Generation in Novel Scenarios enables Generalizable Robot Manipulation
+  

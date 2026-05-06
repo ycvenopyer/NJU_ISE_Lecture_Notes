@@ -1,0 +1,18 @@
+# Windows
+**/desktop.ini
+desktop.ini
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+
+# macOS / Linux
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints/
